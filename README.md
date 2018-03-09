@@ -93,7 +93,7 @@ $ gistup -m "lab${LAB_NUMBER}"
 - [ls](https://en.wikipedia.org/wiki/Ls) - отобразить содержимое текущей директории
 - [man](https://en.wikipedia.org/wiki/Man_page) - форматирование и выводcdd справочных страниц
 - [mkdir](https://en.wikipedia.org/wiki/Mkdir) - создать новый каталог
-- [mv](https://en.wikipedia.org/wiki/Mv) - перемещение одного или нескольких файлов или каталогов из одного места в другое
+- [mv](https://en.wikipedia.org/wiki/Mv) - перемещение одного или нескольких файлов или переименовывание
 - [nm](https://en.wikipedia.org/wiki/Nm_(Unix)) - используется для проверки файлов и для отображения содержимого этих файлов или метаинформации, хранящейся в них
 - [ps](https://en.wikipedia.org/wiki/Ps_(Unix)) - выводит текущие активные процессы
 - [pwd](https://en.wikipedia.org/wiki/Pwd) - печать списка переменных среды или запуска другой утилиты в измененной среде без необходимости изменять существующую среду
